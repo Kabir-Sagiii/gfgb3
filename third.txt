@@ -1,1 +1,3 @@
 Hello I am third file new content
+
+Ok, It is looking good now still we have to practice to understand git

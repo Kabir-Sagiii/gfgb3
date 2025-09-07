@@ -1,1 +1,1 @@
-third file, first line
+Hello I am third file new content
